@@ -1,3 +1,11 @@
+# CMSIS - Candela branch
+
+This branch is a reduced version of master with all files that are not needed in GCU repos removed.
+
+To update from upstream:
+- pull upstream master to master on https://github.com/CandelaSpeedBoat/CMSIS_5/
+- merge master to candela branch
+
 # CMSIS Version 5
 
 [![Version](https://img.shields.io/github/v/release/arm-software/CMSIS_5)](https://github.com/ARM-software/CMSIS_5/releases/latest) [![License](https://img.shields.io/github/license/arm-software/CMSIS_5)](https://arm-software.github.io/CMSIS_5/General/html/LICENSE.txt)
